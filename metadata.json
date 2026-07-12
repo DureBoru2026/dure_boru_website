@@ -1,0 +1,6 @@
+{
+  "name": "Dure Boru Website",
+  "description": "Modern AI-powered customer service and digital resource platform that recommends promotional products, creative templates, e-books, websites, AI tools, and digital resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
